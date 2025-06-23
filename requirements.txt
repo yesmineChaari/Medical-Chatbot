@@ -1,0 +1,14 @@
+
+sentence_transformers
+torch
+qdrant-client
+pandas
+sentence_transformers
+accelerate
+langchain-community 
+langchain-huggingface 
+langchain-ollama
+langchain-qdrant
+openai-whisper
+sounddevice
+faster-whisper
